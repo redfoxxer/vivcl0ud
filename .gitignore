@@ -1,6 +1,9 @@
 node_modules/
 .env
 server/storage/
+<<<<<<< HEAD
 client/node_modules/
 client/build/
 *.enc
+=======
+>>>>>>> f74fb779b426a7f9b64d9ddaec82f420882a9e95
